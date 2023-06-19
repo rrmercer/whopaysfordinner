@@ -42,7 +42,7 @@ function App() {
     <BrowserRouter>
       <Container className="p-3">
         <Row className="justify-content-md-center">
-        <h1 className="header">Welcome To Choose a Loser</h1>
+        <h1 className="header">Welcome To Who Pays for Dinner</h1>
         </Row>
         <Row className="justify-content-md-center">
         <Form onSubmit={handleSubmit}>
@@ -66,7 +66,7 @@ function App() {
           <Button variant="primary" onClick={pickALoser}>Pick a looser</Button>{' '}
           {loser &&
             <div>
-              The loser is! {loser}
+              Looks like {loser} is paying for dinner! 
             </div>
           }
           </Row>
