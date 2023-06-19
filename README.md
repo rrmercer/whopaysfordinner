@@ -6,4 +6,4 @@ The app works like this:
 1.) Enter the folks who might pay for dinner one at a time
 2.) Hit "Pick a loser"
 
-![Who Pays for Dinner - Gameplay](https://github.com/rrmercer/whopaysfordinner/blob/main/screenshot.png)
+![Who Pays for Dinner - Gameplay](https://github.com/rrmercer/whopaysfordinner/blob/main/app/screenshot.png)
